@@ -9,4 +9,5 @@ In the stock market, the golden and death cross is a famous theory. The theory s
 - Find all ‘golden crosses’ and all the 'death crosses'
 - Find the percentage of those golden crosses result in a price increase by more than 1% to 20% over a period of a week to six months.
 - Check whether analytics support the hypothesis of a golden cross or death cross
-- [Code and the report](https://drive.google.com/open?id=12u-F37Fgk3yOzSYo6dqzyf2sc8MjekUK)
+
+
