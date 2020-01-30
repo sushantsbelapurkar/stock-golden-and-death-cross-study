@@ -13,19 +13,19 @@ In the stock market, the golden and death cross is a famous theory. The theory s
 ## Result
 - Golden and death cross hypothesis is to be reject as we cannot find the strong evidence of it, but we found some interesting findings.
 
-![](Golden_death_cross.png)
+![](images/Golden_death_cross.png)
 
 - Correlation between 50 DMA and 200 DMA
 
-![](Golden_death_cross_correlation.png)
+![](images/Golden_death_cross_correlation.png)
 
 - For many stocks we found below observation:
 
-![](pred.png)
+![](images/pred.png)
 
 - Example :
 
-![](ex.png)
+![](images/ex.png)
 
 
 
